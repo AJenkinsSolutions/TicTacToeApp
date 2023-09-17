@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tttapp-9902b": {
+      "hosting": {
+        "tttApp": [
+          "tttapp-9902b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tttapp-9902b"
+  }
+}
